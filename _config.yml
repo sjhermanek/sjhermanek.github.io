@@ -12,15 +12,15 @@ author-pic: stefan_header.jpg
 about-author: Hi, I'm Stefan. By day, I'm a Senior Product Manager at People.ai. In my spare time I enjoy food, travel, and photography.
 
 # Contact links
-email: #
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
+email: 'stefanomnom@gmail.com' #
+# phone: # Add your Phone number
+website: 'snomnom.com' # Add your website, do not add http://
+# linkedin: # Add your Linkedin handle
+# github: # 'sjhermanek' # Add your Github handle
 twitter: '@stefanhermanek' # Add your Twitter handle
-facebook: # Add your Facebook handle
+# facebook: # Add your Facebook handle
 instagram: 'iamstefanh' # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
