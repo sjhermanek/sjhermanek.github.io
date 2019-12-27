@@ -8,7 +8,7 @@ tags: [Blog, About]
 author: Stefan # Add name author (optional)
 include-author-box: true
 include-recent-post: true
-include-newsletter: true
+include-newsletter: false
 include-disqus: true
 ---
 Hello world, this is sNomNom!
