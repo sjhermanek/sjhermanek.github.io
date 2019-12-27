@@ -30,17 +30,23 @@ layout: default
 
           </div><!-- End Share -->
         </div>
+        
         {% if page.include-author-box == "true" %}
           {% include author-box.html %}
         {% endif %}
         
-        {% include recent-post.html %}
+        {% if page.recent-post == "true" %}
+          {% include recent-post.html %}
+        {% endif %}
         
         {% if page.include-newsletter == "true" %}
           {% include newsletter.html %}
         {% endif %}      
-        
-        {% include disqus.html %}
+
+        {% if page.include-disqus == "true" %}
+          {% include disqus.html %}
+        {% endif %}
+                
       </div>
     </div> <!-- End Wrapper -->
   </article>
