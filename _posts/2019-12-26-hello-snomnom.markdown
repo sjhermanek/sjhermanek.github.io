@@ -6,7 +6,7 @@ description: What this is all about. # Add post description (optional)
 img: 2019-12-26-vladislav-klapin-SymZoeE8quA-unsplash.jpg # Add image post (optional)
 tags: [Blog, About]
 author: Stefan # Add name author (optional)
-include-author-box: "true"
+include-author-box: "false"
 include-recent-post: "false"
 include-newsletter: "true"
 include-disqus: "false"
