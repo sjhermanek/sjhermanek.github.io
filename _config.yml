@@ -1,5 +1,5 @@
-title: Eating, Traveling, and Cooking - snomnom.com
-email: hermanek.stefan@gmail.com
+title: snomnom.com - Eating, Traveling, and Cooking
+email: stefanomnom@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Eating, Traveling, Cooking - mixed with the occasional joke and all. Check it out!
 permalink: ':title/'
@@ -25,7 +25,7 @@ instagram: 'iamstefanh' # Add your Instagram handle
 # pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: 'https://snomnom.us4.list-manage.com/subscribe/post?u=9c536787f3a0d290b3aba695a&amp;id=f010a161b6' # Add your MailChimp form identifier.
+mailchimp: '//snomnom.us4.list-manage.com/subscribe/post?u=9c536787f3a0d290b3aba695a&amp;id=f010a161b6' # Add your MailChimp form identifier.
 
 # Disqus
 discus_identifier: mr-brown # Add your discus identifier
