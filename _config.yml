@@ -1,50 +1,47 @@
+---
 title: snomnom.com - Eating, Traveling, and Cooking
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: stefanomnom@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Eating, Traveling, Cooking - mixed with the occasional joke and all. Check it out!
-permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://snomnom.com" # the base hostname & protocol for your site, e.g. http://example.com
-site-name: "snomnom.com"
-sub-title: "Eating, Traveling, Cooking, and more"
+description: 'Eating, Traveling, Cooking - mixed with the occasional joke and all.
+  Check it out!
 
-# Author settings
-author: Stefan Hermanek # add your name
+'
+permalink: ":title/"
+baseurl: "/"
+url: http://snomnom.com
+site-name: snomnom.com
+sub-title: Eating, Traveling, Cooking, and more
+author: Stefan Hermanek
 author-pic: stefan_header.jpg
-about-author: Hi, I'm Stefan. By day, I'm a Senior Product Manager at People.ai. In my spare time I enjoy food, travel, and photography.
-
-# Contact links
-email: 'stefanomnom@gmail.com' #
-# phone: # Add your Phone number
-website: 'snomnom.com' # Add your website, do not add http://
-# linkedin: # Add your Linkedin handle
-# github: # 'sjhermanek' # Add your Github handle
-twitter: '@stefanhermanek' # Add your Twitter handle
-# facebook: # Add your Facebook handle
-instagram: 'iamstefanh' # Add your Instagram handle
-# pinterest: # Add your Pinterest handle
-
-# Newsletter
-mailchimp: '//snomnom.us4.list-manage.com/subscribe/post?u=9c536787f3a0d290b3aba695a&amp;id=f010a161b6' # Add your MailChimp form identifier.
-
-# Disqus
-discus_identifier: mr-brown # Add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
-
-# Paginate
+about-author: Hi, I'm Stefan. By day, I'm a Senior Product Manager at People.ai. In
+  my spare time I enjoy food, travel, and photography.
+website: snomnom.com
+twitter: "@stefanhermanek"
+instagram: iamstefanh
+mailchimp: "//snomnom.us4.list-manage.com/subscribe/post?u=9c536787f3a0d290b3aba695a&amp;id=f010a161b6"
+discus_identifier: mr-brown
+analytics: 
 paginate: 6
-paginate_path: /page:num/
-
-# Build settings
+paginate_path: "/page:num/"
 markdown: kramdown
-
 plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+- jekyll-paginate
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
+include:
+- _pages
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
+- yarn.lock
+- package-lock.json
+- assets/css/sass/

@@ -1,17 +1,19 @@
 ---
-layout: post
 title: Hello, sNomNom!
-date: 2019-12-26 13:32:20 +0300
-description: What this is all about. # Add post description (optional)
-img: 2019-12-26-vladislav-klapin-SymZoeE8quA-unsplash.jpg # Add image post (optional)
-tags: [Blog, About]
-author: Stefan # Add name author (optional)
-include-author-box: "false"
-include-recent-post: "false"
-include-newsletter: "true"
-include-disqus: "false"
-
+date: 2019-12-26 10:32:20 Z
+tags:
+- Blog
+- About
+layout: post
+description: What this is all about.
+img: 2019-12-26-vladislav-klapin-SymZoeE8quA-unsplash.jpg
+author: Stefan
+include-author-box: 'false'
+include-recent-post: 'false'
+include-newsletter: 'true'
+include-disqus: 'false'
 ---
+
 Hello world, this is sNomNom!
 
 sNomNom is about Food, Travel, Cooking. At times, there may be a joke. (Given that I'm German these times will not occur frequently.)
