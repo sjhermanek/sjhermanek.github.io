@@ -23,3 +23,5 @@ I will mainly use my own photography on here, but for this very first post, a hu
 So, what is there for you to see here at snomnom? Well, for one, there will be information about travel. Mixed with that, you'll find brief articles about food (or how I like to say: nom nom!); and on occasion, there may even be a post about food.
 
 Here's what you won't find: Long-winded discussions about what's good or bad about some random thing. For that, there is medium.com.
+
+And with this, dear reader, let's get snomnom'ing! (Also, say snomnom.com real fast 10 times. I dare you. Just try. snomnomdotcom)
