@@ -30,16 +30,25 @@ You. Can. Not. Beat. This. Location.
 
 ### Room
 The room was pretty large by Japanese standards and had a great view. The bathroom featured a hypermodern toilet (granted, I was impressed since this was my first stop on the trip -- there'd be many more to come) and a large soaking tub - very convenient to tackle the jetlag.
+
+Here's the bedroom:
 ![Bedroom]({{site.baseurl}}/assets/img/2019-12-28-hotel-1.jpg)
+
+And here's that hypermodern toilet I spoke about:
 ![Toilet]({{site.baseurl}}/assets/img/2019-12-28-hotel-3.jpg)
 
+In summary, the room was great!
 
 ### View
 Check. Out. This. View!
-By day:
+
+Here's the view by day:
 ![Daytime View]({{site.baseurl}}/assets/img/2019-12-28-hotel-2.jpg)
-And by night:
+
+But the nighttime is when it really shines:
 ![Nighttime View]({{site.baseurl}}/assets/img/2019-12-28-hotel-4.jpg)
+
+Luckily for me, the jetlag allowed me to check out the views, both by day and night...
 
 
 ### Service
