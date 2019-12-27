@@ -6,10 +6,10 @@ description: What this is all about. # Add post description (optional)
 img: 2019-12-26-vladislav-klapin-SymZoeE8quA-unsplash.jpg # Add image post (optional)
 tags: [Blog, About]
 author: Stefan # Add name author (optional)
-include-author-box: true
+include-author-box: "true"
 include-recent-post: "true"
 include-newsletter: "false"
-include-disqus: false
+include-disqus: "false"
 
 ---
 Hello world, this is sNomNom!
