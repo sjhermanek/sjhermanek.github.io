@@ -8,8 +8,8 @@ description: An overview of my trip to Japan in 2019.
 img: 2019-12-27-japan-2019-hero.jpg
 author: Stefan
 include-author-box: false
-include-recent-post: true
-include-newsletter: true
+include-recent-post: "true"
+include-newsletter: "true"
 include-disqus: false
 layout: post
 ---
