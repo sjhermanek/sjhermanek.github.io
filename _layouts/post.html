@@ -30,7 +30,10 @@ layout: default
 
           </div><!-- End Share -->
         </div>
-        {% include author-box.html %}
+        {% if include-author-box == "true" %}
+          {% include author-box.html %}
+        {% endif %}
+        
         {% include recent-post.html %}
         {% include newsletter.html %}
         {% include disqus.html %}
