@@ -27,7 +27,7 @@ twitter: "@stefanhermanek"
 instagram: iamstefanh
 mailchimp: "//snomnom.us4.list-manage.com/subscribe/post?u=9c536787f3a0d290b3aba695a&amp;id=f010a161b6"
 discus_identifier: mr-brown
-analytics: 
+analytics: UA-155022564-1
 paginate: 6
 paginate_path: "/page:num/"
 markdown: kramdown
