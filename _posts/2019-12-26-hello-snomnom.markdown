@@ -7,9 +7,10 @@ img: 2019-12-26-vladislav-klapin-SymZoeE8quA-unsplash.jpg # Add image post (opti
 tags: [Blog, About]
 author: Stefan # Add name author (optional)
 include-author-box: true
-include-recent-post: true
-include-newsletter: false
-include-disqus: true
+include-recent-post: "true"
+include-newsletter: "false"
+include-disqus: false
+
 ---
 Hello world, this is sNomNom!
 
